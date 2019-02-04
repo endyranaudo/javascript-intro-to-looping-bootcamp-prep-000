@@ -1,3 +1,3 @@
-for(let i = 0; i < xxx; i++ ){
+for(let i = 0; i < 25; i++ ){
   
 }
